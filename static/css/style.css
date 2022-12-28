@@ -3,6 +3,12 @@ body {
     color: #fff;
     font-family: 'Roboto', sans-serif;
 }
+
+.hovered {
+    outline: thin solid #dadada;
+    outline-offset: -1px;
+}
+
 .page-title {
     font-weight: 300;
     font-size: 26px;
