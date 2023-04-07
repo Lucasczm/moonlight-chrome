@@ -1,6 +1,6 @@
 [submodule "moonlight-common-c"]
 	path = moonlight-common-c
-	url = ../moonlight-common-c
+	url = https://github.com/SamsungDForum/moonlight-common-c/
 [submodule "opus"]
 	path = opus
-	url = https://github.com/xiph/opus.git
+	url = https://github.com/xiph/opus
